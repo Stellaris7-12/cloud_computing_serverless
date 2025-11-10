@@ -1,0 +1,5 @@
+# AWS credentials and configuration
+.aws/
+aws_credentials.txt
+*.pem
+*.key

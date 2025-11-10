@@ -1,0 +1,334 @@
+[2025-11-09 11:13:17,277] hyh2856/INFO/locust.main: Starting Locust 2.42.2
+[2025-11-09 11:13:17,280] hyh2856/INFO/locust.main: Run time limit set to 60 seconds
+[2025-11-09 11:13:17,284] hyh2856/INFO/locust.runners: Ramping to 10 users at a rate of 5.00 per second
+[2025-11-09 11:13:18,288] hyh2856/INFO/locust.runners: All users spawned: {"LambdaTestUser": 10} (10 total users)
+[2025-11-09 11:13:20,508] hyh2856/INFO/root: Response time: 3216.26 ms
+[2025-11-09 11:13:20,508] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:20,509] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:21,260] hyh2856/INFO/root: Response time: 2967.54 ms
+[2025-11-09 11:13:21,261] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:21,261] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:24,327] hyh2856/INFO/root: Response time: 807.05 ms
+[2025-11-09 11:13:24,327] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:24,327] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:25,237] hyh2856/INFO/root: Response time: 803.08 ms
+[2025-11-09 11:13:25,237] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:25,237] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:27,984] hyh2856/INFO/root: Response time: 10688.53 ms
+[2025-11-09 11:13:27,984] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:27,984] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:27,986] hyh2856/INFO/root: Response time: 10701.26 ms
+[2025-11-09 11:13:27,986] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:27,986] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:28,046] hyh2856/INFO/root: Response time: 10755.36 ms
+[2025-11-09 11:13:28,046] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:28,046] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:28,058] hyh2856/INFO/root: Response time: 9769.08 ms
+[2025-11-09 11:13:28,058] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:28,058] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:28,061] hyh2856/INFO/root: Response time: 9769.11 ms
+[2025-11-09 11:13:28,061] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:28,061] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:28,063] hyh2856/INFO/root: Response time: 9772.28 ms
+[2025-11-09 11:13:28,063] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:28,063] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:28,068] hyh2856/INFO/root: Response time: 9777.62 ms
+[2025-11-09 11:13:28,068] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:28,068] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:28,071] hyh2856/INFO/root: Response time: 10779.86 ms
+[2025-11-09 11:13:28,071] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:28,071] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:29,534] hyh2856/INFO/root: Response time: 897.46 ms
+[2025-11-09 11:13:29,535] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:29,535] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:29,755] hyh2856/INFO/root: Response time: 827.20 ms
+[2025-11-09 11:13:29,755] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:29,755] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:31,944] hyh2856/INFO/root: Response time: 844.29 ms
+[2025-11-09 11:13:31,944] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:31,945] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:31,996] hyh2856/INFO/root: Response time: 818.58 ms
+[2025-11-09 11:13:31,996] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:31,996] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:32,157] hyh2856/INFO/root: Response time: 793.21 ms
+[2025-11-09 11:13:32,157] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:32,157] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:32,170] hyh2856/INFO/root: Response time: 804.97 ms
+[2025-11-09 11:13:32,170] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:32,170] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:32,894] hyh2856/INFO/root: Response time: 811.57 ms
+[2025-11-09 11:13:32,895] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:32,895] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:33,183] hyh2856/INFO/root: Response time: 791.65 ms
+[2025-11-09 11:13:33,183] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:33,183] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:33,206] hyh2856/INFO/root: Response time: 891.67 ms
+[2025-11-09 11:13:33,206] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:33,206] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:33,740] hyh2856/INFO/root: Response time: 802.18 ms
+[2025-11-09 11:13:33,740] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:33,741] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:33,793] hyh2856/INFO/root: Response time: 808.49 ms
+[2025-11-09 11:13:33,793] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:33,793] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:34,935] hyh2856/INFO/root: Response time: 825.60 ms
+[2025-11-09 11:13:34,935] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:34,935] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:37,015] hyh2856/INFO/root: Response time: 892.64 ms
+[2025-11-09 11:13:37,015] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:37,015] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:37,339] hyh2856/INFO/root: Response time: 905.61 ms
+[2025-11-09 11:13:37,339] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:37,339] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:37,542] hyh2856/INFO/root: Response time: 826.12 ms
+[2025-11-09 11:13:37,542] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:37,542] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:37,610] hyh2856/INFO/root: Response time: 895.79 ms
+[2025-11-09 11:13:37,610] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:37,610] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:37,793] hyh2856/INFO/root: Response time: 800.30 ms
+[2025-11-09 11:13:37,794] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:37,794] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:38,055] hyh2856/INFO/root: Response time: 797.23 ms
+[2025-11-09 11:13:38,056] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:38,056] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:38,232] hyh2856/INFO/root: Response time: 802.14 ms
+[2025-11-09 11:13:38,232] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:38,233] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:38,543] hyh2856/INFO/root: Response time: 820.73 ms
+[2025-11-09 11:13:38,544] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:38,544] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:39,045] hyh2856/INFO/root: Response time: 825.08 ms
+[2025-11-09 11:13:39,046] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:39,046] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:39,537] hyh2856/INFO/root: Response time: 801.01 ms
+[2025-11-09 11:13:39,537] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:39,537] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:41,612] hyh2856/INFO/root: Response time: 880.81 ms
+[2025-11-09 11:13:41,613] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:41,614] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:41,851] hyh2856/INFO/root: Response time: 807.81 ms
+[2025-11-09 11:13:41,851] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:41,851] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:41,869] hyh2856/INFO/root: Response time: 794.69 ms
+[2025-11-09 11:13:41,870] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:41,870] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:42,395] hyh2856/INFO/root: Response time: 806.30 ms
+[2025-11-09 11:13:42,395] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:42,395] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:42,521] hyh2856/INFO/root: Response time: 806.93 ms
+[2025-11-09 11:13:42,521] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:42,521] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:42,612] hyh2856/INFO/root: Response time: 803.42 ms
+[2025-11-09 11:13:42,612] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:42,612] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:43,148] hyh2856/INFO/root: Response time: 810.30 ms
+[2025-11-09 11:13:43,149] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:43,149] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:43,236] hyh2856/INFO/root: Response time: 804.77 ms
+[2025-11-09 11:13:43,237] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:43,237] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:43,593] hyh2856/INFO/root: Response time: 910.97 ms
+[2025-11-09 11:13:43,593] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:43,593] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:44,578] hyh2856/INFO/root: Response time: 822.84 ms
+[2025-11-09 11:13:44,578] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:44,578] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:46,133] hyh2856/INFO/root: Response time: 822.70 ms
+[2025-11-09 11:13:46,133] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:46,134] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:46,798] hyh2856/INFO/root: Response time: 800.32 ms
+[2025-11-09 11:13:46,798] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:46,798] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:46,844] hyh2856/INFO/root: Response time: 800.24 ms
+[2025-11-09 11:13:46,844] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:46,844] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:47,018] hyh2856/INFO/root: Response time: 787.52 ms
+[2025-11-09 11:13:47,018] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:47,018] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:47,124] hyh2856/INFO/root: Response time: 800.61 ms
+[2025-11-09 11:13:47,124] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:47,124] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:47,653] hyh2856/INFO/root: Response time: 828.17 ms
+[2025-11-09 11:13:47,654] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:47,654] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:47,890] hyh2856/INFO/root: Response time: 815.10 ms
+[2025-11-09 11:13:47,891] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:47,891] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:47,950] hyh2856/INFO/root: Response time: 828.65 ms
+[2025-11-09 11:13:47,950] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:47,951] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:48,031] hyh2856/INFO/root: Response time: 846.92 ms
+[2025-11-09 11:13:48,032] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:48,032] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:49,225] hyh2856/INFO/root: Response time: 899.83 ms
+[2025-11-09 11:13:49,225] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:49,226] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:51,015] hyh2856/INFO/root: Response time: 885.27 ms
+[2025-11-09 11:13:51,016] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:51,016] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:51,223] hyh2856/INFO/root: Response time: 804.94 ms
+[2025-11-09 11:13:51,224] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:51,224] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:51,651] hyh2856/INFO/root: Response time: 803.69 ms
+[2025-11-09 11:13:51,651] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:51,651] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:51,704] hyh2856/INFO/root: Response time: 809.21 ms
+[2025-11-09 11:13:51,704] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:51,704] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:51,975] hyh2856/INFO/root: Response time: 817.05 ms
+[2025-11-09 11:13:51,975] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:51,975] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:52,204] hyh2856/INFO/root: Response time: 797.60 ms
+[2025-11-09 11:13:52,205] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:52,205] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:52,224] hyh2856/INFO/root: Response time: 814.04 ms
+[2025-11-09 11:13:52,224] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:52,225] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:53,047] hyh2856/INFO/root: Response time: 829.31 ms
+[2025-11-09 11:13:53,047] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:53,047] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:53,483] hyh2856/INFO/root: Response time: 828.04 ms
+[2025-11-09 11:13:53,483] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:53,483] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:53,679] hyh2856/INFO/root: Response time: 800.40 ms
+[2025-11-09 11:13:53,679] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:53,679] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:55,347] hyh2856/INFO/root: Response time: 789.30 ms
+[2025-11-09 11:13:55,347] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:55,347] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:55,871] hyh2856/INFO/root: Response time: 845.05 ms
+[2025-11-09 11:13:55,871] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:55,871] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:56,334] hyh2856/INFO/root: Response time: 808.26 ms
+[2025-11-09 11:13:56,334] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:56,334] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:56,409] hyh2856/INFO/root: Response time: 791.11 ms
+[2025-11-09 11:13:56,409] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:56,409] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:56,727] hyh2856/INFO/root: Response time: 813.96 ms
+[2025-11-09 11:13:56,727] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:56,727] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:56,906] hyh2856/INFO/root: Response time: 822.16 ms
+[2025-11-09 11:13:56,907] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:56,907] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:56,967] hyh2856/INFO/root: Response time: 805.77 ms
+[2025-11-09 11:13:56,967] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:56,967] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:56,970] hyh2856/INFO/root: Response time: 824.42 ms
+[2025-11-09 11:13:56,970] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:56,970] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:58,858] hyh2856/INFO/root: Response time: 893.06 ms
+[2025-11-09 11:13:58,858] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:58,858] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:58,978] hyh2856/INFO/root: Response time: 888.42 ms
+[2025-11-09 11:13:58,978] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:58,979] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:13:59,741] hyh2856/INFO/root: Response time: 808.22 ms
+[2025-11-09 11:13:59,742] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:13:59,742] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:00,511] hyh2856/INFO/root: Response time: 814.88 ms
+[2025-11-09 11:14:00,512] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:00,512] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:00,739] hyh2856/INFO/root: Response time: 806.65 ms
+[2025-11-09 11:14:00,739] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:00,739] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:01,045] hyh2856/INFO/root: Response time: 801.13 ms
+[2025-11-09 11:14:01,045] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:01,045] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:01,313] hyh2856/INFO/root: Response time: 808.31 ms
+[2025-11-09 11:14:01,314] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:01,314] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:01,609] hyh2856/INFO/root: Response time: 801.72 ms
+[2025-11-09 11:14:01,610] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:01,610] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:01,885] hyh2856/INFO/root: Response time: 827.66 ms
+[2025-11-09 11:14:01,885] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:01,885] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:02,107] hyh2856/INFO/root: Response time: 801.79 ms
+[2025-11-09 11:14:02,107] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:02,107] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:04,197] hyh2856/INFO/root: Response time: 805.11 ms
+[2025-11-09 11:14:04,197] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:04,197] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:04,201] hyh2856/INFO/root: Response time: 795.09 ms
+[2025-11-09 11:14:04,202] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:04,202] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:04,452] hyh2856/INFO/root: Response time: 812.59 ms
+[2025-11-09 11:14:04,452] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:04,453] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:04,642] hyh2856/INFO/root: Response time: 814.77 ms
+[2025-11-09 11:14:04,642] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:04,642] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:04,949] hyh2856/INFO/root: Response time: 811.64 ms
+[2025-11-09 11:14:04,949] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:04,950] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:05,761] hyh2856/INFO/root: Response time: 843.16 ms
+[2025-11-09 11:14:05,761] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:05,761] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:06,028] hyh2856/INFO/root: Response time: 813.34 ms
+[2025-11-09 11:14:06,028] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:06,028] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:06,375] hyh2856/INFO/root: Response time: 798.11 ms
+[2025-11-09 11:14:06,376] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:06,376] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:06,994] hyh2856/INFO/root: Response time: 829.96 ms
+[2025-11-09 11:14:06,994] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:06,995] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:07,077] hyh2856/INFO/root: Response time: 820.16 ms
+[2025-11-09 11:14:07,078] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:07,078] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:08,307] hyh2856/INFO/root: Response time: 817.48 ms
+[2025-11-09 11:14:08,307] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:08,308] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:08,714] hyh2856/INFO/root: Response time: 895.72 ms
+[2025-11-09 11:14:08,714] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:08,714] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:09,368] hyh2856/INFO/root: Response time: 833.74 ms
+[2025-11-09 11:14:09,369] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:09,369] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:09,598] hyh2856/INFO/root: Response time: 892.79 ms
+[2025-11-09 11:14:09,607] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:09,608] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:09,795] hyh2856/INFO/root: Response time: 902.12 ms
+[2025-11-09 11:14:09,796] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:09,796] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:10,346] hyh2856/INFO/root: Response time: 794.26 ms
+[2025-11-09 11:14:10,346] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:10,346] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:10,941] hyh2856/INFO/root: Response time: 799.03 ms
+[2025-11-09 11:14:10,941] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:10,941] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:11,542] hyh2856/INFO/root: Response time: 792.52 ms
+[2025-11-09 11:14:11,542] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:11,542] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:11,866] hyh2856/INFO/root: Response time: 805.71 ms
+[2025-11-09 11:14:11,866] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:11,866] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:12,003] hyh2856/INFO/root: Response time: 819.38 ms
+[2025-11-09 11:14:12,003] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:12,003] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:13,309] hyh2856/INFO/root: Response time: 897.70 ms
+[2025-11-09 11:14:13,309] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:13,310] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:13,314] hyh2856/INFO/root: Response time: 825.70 ms
+[2025-11-09 11:14:13,315] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:13,315] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:13,685] hyh2856/INFO/root: Response time: 806.14 ms
+[2025-11-09 11:14:13,685] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:13,686] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:13,881] hyh2856/INFO/root: Response time: 814.47 ms
+[2025-11-09 11:14:13,881] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:13,881] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:14,997] hyh2856/INFO/root: Response time: 825.33 ms
+[2025-11-09 11:14:14,997] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:14,997] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:15,150] hyh2856/INFO/root: Response time: 808.03 ms
+[2025-11-09 11:14:15,150] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:15,150] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:15,896] hyh2856/INFO/root: Response time: 811.43 ms
+[2025-11-09 11:14:15,896] hyh2856/INFO/root: Response status code: 200
+[2025-11-09 11:14:15,896] hyh2856/INFO/root: Response text: {"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"predictions\": [2], \"input_features\": [[5.9, 3.0, 5.1, 2.3]], \"message\": \"\\u9884\\u6d4b\\u6210\\u529f\"}"}
+[2025-11-09 11:14:15,998] hyh2856/INFO/locust.main: --run-time limit reached, shutting down
+[2025-11-09 11:14:16,315] hyh2856/INFO/locust.main: writing html report to file: locust_logs/test_locust_report.html
+[2025-11-09 11:14:16,319] hyh2856/INFO/locust.main: Shutting down (exit code 0)
