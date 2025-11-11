@@ -193,7 +193,41 @@ In your local machine:
 
     Here, we are mapping port 8080.
 
-  * Verify if the image is functioning properly by executing `test.py`.
+  * Verify if the image is functioning properly by executing `test.py` 
+  * or(只有配置了Docker Web时可用浏览器访问)
+  ![测试本地镜像](./assets/docker_local_test.png)
+
+ ### Docker镜像Lambda兼容性解决方案
+  If you encounter image issues:
+  ![创建Lambda函数时出现镜像不兼容问题](./assets/image_issues.png)
+
+  You can try to rebuild the image with the following command:
+  * 设置环境变量禁用默认 Attestations，防止生成不兼容的 Image Index
+
+
+    ```bash
+    # Linux
+    export BUILDX_NO_DEFAULT_ATTESTATIONS=1
+    ```
+
+    ```bash
+    # Windows
+    set BUILDX_NO_DEFAULT_ATTESTATIONS=1
+    ```
+
+  * Use "buildx" command rather than "build" to build the image:
+
+    ```bash
+    # 1. 使用buildx构建到本地
+    docker buildx build --platform=linux/amd64 --load -t iris_image:latest .
+
+    # 2. 本地测试
+    docker run -it --rm -p 8080:8080 iris_image:latest
+    python test.py #在另一个终端中
+
+    # 3. 推送到ECR（见下一步）
+    ```
+
 
 ### 4. ECR Repository Setup
 
