@@ -54,23 +54,23 @@ Welcome to Part 1! The goal here is to take a pre-trained machine learning model
 
 We will use the well-known IRIS dataset to keep the machine learning model simple and focused on the serverless deployment process. The dataset includes four features: sepal length, sepal width, petal length, and petal width, and classifies samples into three categories: Iris Setosa, Iris Versicolour, and Iris Virginica.
 
-![](./assets/architecture.png)
+![](./assets/iris.png)architecture.png)
 
 ### Components
 
-1.  **Lambda Function Development**
+1. **Lambda Function Development**
     * Implement the `lambda_handler` function.
-2.  **Environment Setup**
+2. **Environment Setup**
     * Set up your local development environment.
-3.  **Docker Image Creation**
+3. **Docker Image Creation**
     * Make a Docker Image that will generate prediction using a trained model.
-4.  **ECR Repository Setup**
+4. **ECR Repository Setup**
     * Create an AWS ECR repository and push your Docker image to AWS ECR.
-5.  **Lambda Function Creation in AWS Console**
+5. **Lambda Function Creation in AWS Console**
     * Create a Lambda function using the container image.
-6.  **API Gateway Configuration**
+6. **API Gateway Configuration**
     * Using the API gateway to access the prediction API.
-7.  **Load Testing and Analysis (Part 1)**
+7. **Load Testing and Analysis (Part 1)**
     * Use Locust to perform load testing on your deployed API.
     * Plot the results to observe the cold start trend.
     * Analyze the differences between cold start and warm request response times.
